@@ -1,0 +1,3 @@
+module snippetbox.steviedons.com
+
+go 1.21.3
